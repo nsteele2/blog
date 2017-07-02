@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Hi, I'm Nick
 #tagline:          ''
 description:      'The personal website of Nick Steele'
-url:              https://nsteele2.github.io
-baseurl:          /
+url:              https://nsteele2.github.io/blog/
+baseurl:          /blog/ 
 
 author:
   name:           'Mark Otto'
