@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Futura", "lucida console", "lucida console", sans-serif;
+  font-family: "Futura", "lucida console", "lucida console", monospace;
 }
 @media (min-width: 48em) {
   html {
