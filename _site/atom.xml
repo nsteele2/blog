@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title><p>"Hi,"</p> <p>"I'm Nick"</p></title>
+ <title><p>Hi,</p> <p>I'm Nick</p></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-07-02T17:11:02-07:00</updated>
+ <updated>2017-07-02T17:25:41-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>

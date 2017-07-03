@@ -7,11 +7,12 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            <p>Hi,</p> <p>I'm Nick</p>
+title:            Hi, I'm Nick
+# <p>Hi,</p> <p>I'm Nick</p>
 #tagline:          ''
 description:      'The personal website of Nick Steele'
 url:              https://nsteele2.github.io/blog/
-baseurl:          /blog/ 
+baseurl:          /blog/
 
 author:
   name:           'Mark Otto'
